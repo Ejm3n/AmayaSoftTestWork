@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea945664a20bfd84088279726b715870, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  GameModsAvatar: {fileID: 21300000, guid: 2f673cf96f444ba4d914d0659de816f0, type: 3}
+  GameModsName: Numbers
+  GameModeSprites:
+  - {fileID: 1422184923334757970, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: 1808195818850983521, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: -7900951133411543555, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: -7398325283844340781, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: 2267071060405275165, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: -7015292045520539579, guid: f8b9abe2a89838942be680255602a39f, type: 3}
+  - {fileID: 21300000, guid: a83634aa27fe35f499de01415c40610e, type: 3}
+  - {fileID: 21300000, guid: 6da13345491f4c04787b489b701d4cb0, type: 3}
+  - {fileID: -1155199509967091035, guid: b084a175b918b69449d70e82adb15845, type: 3}
+  - {fileID: 4142021021139464533, guid: e8a0a533c684b244a8ecb193524fc73d, type: 3}
